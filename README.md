@@ -2,18 +2,20 @@
 Correction from my preview test
 ## Installation
 Step 1:
+create a db name: nixa
 
+Step 2:
 ```
 composer-install
 ```
 
-step 2:
+step 3:
 
 ```
 php bin/console doctrine:migrations:migrate
 ```
 
-step 3:
+step 4:
 
 ```
 php bin/console server:run
