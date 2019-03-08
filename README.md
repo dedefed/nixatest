@@ -2,7 +2,9 @@
 Correction from my preview test
 ## Installation
 Step 1:
-create a db name: nixa
+```
+Create a db name: nixa
+```
 
 Step 2:
 ```
